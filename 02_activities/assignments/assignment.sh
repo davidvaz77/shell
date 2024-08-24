@@ -35,7 +35,6 @@ cat dir2/file3.txt
 # 7. Delete directories dir4 and dir5 including all their contents (if any)
 
 rm -ir dir4 dir5
-ls
 
 # 8. List the contents of the parent directory to verify the deletion of dir4 and dir5
 
